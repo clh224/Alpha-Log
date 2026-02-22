@@ -93,3 +93,17 @@ Software Evolution: Researching PyInstaller and Tkinter/PyQt for the upcoming EX
 🧠 Developer's Insight (开发者心得)
 En: Development is a marathon, not a sprint. A short break for family is necessary to recharge for the upcoming "Big Update." The logic is already in my head; the code will follow soon.
 中: 开发是一场马拉松，而非百米冲刺。为了即将到来的“大版本更新”，因家庭事务稍作停歇是必要的充电。逻辑已在脑中，代码随后就到。
+
+📝 2026-02-22 | 硬核双语日志
+Date: 2026-02-22 21:40
+Summary: The Multiplier & Money Update
+🚀 Technical Progress (技术进展)
+Final Logic Integration: Refactored the script to include the Purchase Multiplier system and Total Prize Calculator.
+中: 彻底重构脚本，集成了“购买倍数”系统与“总奖金计算器”。
+Refined Output: Improved report visual styling with formatted currency and status tags.
+中: 优化了报告输出格式，支持千分位奖金显示和浮动奖池标注。
+🔮 Future Roadmap (未来路线图预告)
+EXE Encapsulation: Plan to convert .py to .exe for environment-free execution.
+中: 计划将脚本封装为 EXE 文件，实现脱离环境运行。
+GUI Development: Moving from terminal input to a visual dashboard.
+中: 计划从终端输入转向可视化窗口界面。
