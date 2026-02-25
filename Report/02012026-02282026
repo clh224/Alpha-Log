@@ -125,3 +125,25 @@ Preparation for Packaging: Started researching PyInstaller flags to ensure a cle
 🚀 Progress (今日进展)
 I just studied some English on Duolingo because my schedule is tight today.
 CH：今天时间比较紧，所以只在多邻国上学了会儿英语。
+
+📝 2026-02-25 | Day 10: The Logic of Data Types
+🚀 Progress (今日进展)
+Variable Definition: Mastered the assignment of String, Integer, and Float.
+中: 掌握了字符串、整数和浮点数的定义与赋值。
+Mathematical Operations: Conducted experiments on mixed-type arithmetic, understanding why Total = int * float works while str * float fails.
+中: 进行了混合类型运算实验，理解了为什么“整数 * 浮点数”可行，而“字符串 * 浮点数”会导致逻辑崩溃。
+String Multiplier: Discovered Python's unique syntax: str * int = Repetition.
+中: 发现了 Python 的特有语法：字符串 * 整数 = 重复输出。
+🛠 Technical Code Summary (代码逻辑总结)
+Case A: Multiplication (乘法逻辑)
+apples (3) * price (3.5) = 10.5 ✅ (int * float = float)
+"abc" * 14.34 ❌ (Logic Crash: Cannot repeat a string 'half-way')
+"bbb" * 3 = "bbbbbbbbb" ✅ (Python Magic: Direct repetition)
+Case B: Type Conversion (转换提醒)
+Key Fact: input() always returns a String. To do math, you MUST cast it using int() or float().
+中: 核心知识点：input() 拿到的永远是字符串，算账前必须转型。
+🧠Developer's Insight (开发者心得)
+En: Python is strict yet flexible. Using # (Comments) isn't just for notes; it's a "Cryogenic Chamber" for code—preserving thoughts while keeping the main script running smoothly.
+中: Python 既严谨又灵活。使用 #（注释）不仅是为了写笔记，它更是代码的“冷冻仓”——在确保主程序运行的同时，封存开发思路。
+En: Learning from an AI mentor (Gemini) helps clarify the "Why" behind the errors. "String + Integer = Error" is a rule, but understanding it's a "Type Mismatch" is knowledge.
+中: 跟着 AI 私教（Gemini）学习能帮我理清报错背后的“为什么”。“字符串 + 整数 = 报错”是规则，但理解这是“类型不匹配”才是知识。
