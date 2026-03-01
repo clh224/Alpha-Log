@@ -1,1 +1,9 @@
-
+20260301
+Today's Learning
+while loop for input validation
+isdigit() to check if string contains only numbers
+replace() to handle decimal points in user input
+今日学习内容
+使用 while 循环进行输入验证
+使用 isdigit() 检查字符串是否只包含数字
+使用 replace() 处理用户输入中的小数点
