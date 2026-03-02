@@ -1,9 +1,13 @@
 20260301
 Today's Learning
-while loop for input validation
-isdigit() to check if string contains only numbers
-replace() to handle decimal points in user input
+while loop for input validation,isdigit() to check if string contains only numbers,replace() to handle decimal points in user input
 今日学习内容
 使用 while 循环进行输入验证
 使用 isdigit() 检查字符串是否只包含数字
 使用 replace() 处理用户输入中的小数点
+
+20260302
+Today's Learning: Python Lists
+Created a list with [] to store devices;Used .append() to add new items to list;Accessed list items with index [0];;Counted items with len();
+Combined list operations with user input.
+用[]创建列表存储设备，用.append()添加新项目，用[0]索引访问列表项，用len()统计项目数量，结合用户输入操作列表。
