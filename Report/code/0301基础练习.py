@@ -13,6 +13,9 @@ while is_correct==False:#现在执行while
         is_correct=True#通过
     else:print("错误：请输入纯数字（例如 7.5），不要带汉字或单位！")#否则继续问用户
 print(f"录入成功！当前油价为：{price}")
+if price>8:
+    is_correct=True
+    print("这个这油价太贵了，建议慎重考虑加油")
 #简单笔记 首先要知道while的判定这个函数和循环 然后知道可以主动查找用户错误
 #用replace 见11行 old是旧的内容 new是变成新内容 count执行几次 然后isdigit用来判断是否为数
 #如果不是那就到else 否则就成功
